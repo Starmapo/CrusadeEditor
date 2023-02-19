@@ -6,7 +6,7 @@ import flixel.group.FlxSpriteGroup;
 import flixel.math.FlxPoint;
 import flixel.math.FlxRect;
 import flixel.text.FlxText;
-import flixel.ui.FlxUIText;
+import flixel.addons.ui.FlxUIText;
 import flixel.util.FlxColor;
 import ibwwg.FlxScrollableArea;
 import sprites.CharacterSlot;
